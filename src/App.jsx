@@ -10,7 +10,7 @@ import {
   ResponsiveContainer,
 } from "recharts";
 
-const OPEN_WEATHER_API_KEY = "304f81ea84d253ce256403b6d821f632"; // My key
+const OPEN_WEATHER_API_KEY = "My key"; // My key
 
 function App() {
   const [city, setCity] = useState("");
